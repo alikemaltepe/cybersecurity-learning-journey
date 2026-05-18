@@ -38,10 +38,11 @@ During the last three weeks, I focused on building a strong cybersecurity founda
 - Started building my cybersecurity GitHub portfolio
 
 ### Accomplishments
-- Completed the first courses of the Google Cybersecurity Certificate
+- Completed the first two courses of the Google Cybersecurity Professional Certificate (
+- Earned two cybersecurity certificates through Coursera and Google
 - Improved my understanding of security operations and business continuity
 - Learned the basics of SIEM, Splunk, Chronicle, and playbooks
-- Organized my first cybersecurity learning repository
+- Organized and started building my first cybersecurity learning repository
 
 ### Current Goal
 Continue improving my:
